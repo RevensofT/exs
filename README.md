@@ -7,3 +7,6 @@ It also include some quality of life feature like pre build recursion function a
 
 ### Why so many method hasn't comment or summary?
 Just some rush reason to stick my code to GitHub Arctic Code Vault, also I think many of method name is explain themself enough.
+
+### It's not run !?
+You need `ils.dll` from project [Intermediate Language Script](https://github.com/RevensofT/ils) in the same place with `exs.dll` .
